@@ -1,0 +1,44 @@
+[    
+    {
+        "id": 1,
+        "title": "naruto",
+        "rating": 3,
+        "imageURL" : "https://i.pinimg.com/originals/2c/e9/58/2ce958f9a9afb0c55abf1977483c9b8a.jpg"
+    },
+    {
+        "id": 2,
+        "title": "naruto 2",
+        "rating": 3,
+        "imageURL" : "https://i.pinimg.com/736x/85/50/78/855078432ff1f12af2b5e335e157cbd3.jpg"
+    },
+    {
+        "id": 3,
+        "title": "naruto 3",
+        "rating": 3,
+        "imageURL" : "https://as01.epimg.net/meristation_en/imagenes/2022/04/21/news/1650502649_880140_1650503074_noticia_normal.jpg"
+    },
+    {
+        "id": 4,
+        "title": "naruto 4",
+        "rating": 3,
+        "imageURL" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYf-axDf0n4SJDmlzDVEdiNnjfCcEtUP4Eaw&usqp=CAU"
+    },
+    {
+        "id": 5,
+        "title": "naruto 5",
+        "rating": 3,
+        "imageURL" : "https://static.tvtropes.org/pmwiki/pub/images/naruto_tenth_anniversary_poster.png"
+    },
+    {
+        "id": 6,
+        "title": "naruto 6",
+        "rating": 3,
+        "imageURL" : "https://www.guidingtech.com/wp-content/uploads/Naruto-Wallpapers-for-PC-and-Desktop-9_4d470f76dc99e18ad75087b1b8410ea9.jpg"
+    },
+    {
+        "id": 7,
+        "title": "naruto 7",
+        "rating": 3,
+        "imageURL" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAZ4tY0hM2WigBcxgw-pet4hCytHxG9sBDUMpC0jNOaPOm-OwPgtOND-4OjHz3KVReepY&usqp=CAU"
+    }
+]    
